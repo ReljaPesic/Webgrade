@@ -1,0 +1,21 @@
+20
+audi a3 10000
+audi a2 7000
+mercedes c100 15000
+bmw x6 20000
+opel astra 5000
+audi a1 6000
+opel corsa 4500
+fiat punto 3800
+bmw x1 30000
+fiat 500l 7500
+audi a3 15000
+audi a2 7600
+mercedes c100 1000
+bmw x6 2000
+opel astra 50000
+audi a1 600
+opel corsa 400
+fiat punto 3300
+bmw x1 25000
+fiat 500l 7500
